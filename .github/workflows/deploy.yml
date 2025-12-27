@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ 主要的 ] # 确认你的主分支名是"主要的" 
+    branches: [ 主要的 ] # 确认你的主分支名是"主要的"
 
 jobs:
   build:
